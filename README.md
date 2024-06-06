@@ -1,4 +1,4 @@
-**Project Name**
+**Mock Stackoverflow**
 
 This project is a Q&A platform that allows users to ask questions, provide answers, and vote on the content. The system enforces rules to prevent abuse and ensure fair participation. Below are the details on how to set up, run, and understand the key features of this application.
 
